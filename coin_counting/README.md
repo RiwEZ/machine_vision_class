@@ -1,1 +1,1 @@
-Put the image in here and run the program
+Put the images in here and run the `main.ipynb` program
