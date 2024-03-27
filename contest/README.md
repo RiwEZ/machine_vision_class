@@ -5,11 +5,5 @@ All the models is on [this link](https://o365cmu-my.sharepoint.com/:f:/g/persona
 # First Model
 Trained from scratch 
 
-- code `from_scratch.ipynb`
-- model `temp-from-sc.keras`
-
-# Second Model
-Trained from pretrained `Resnet-50` 
-
-- code `from_pretrained.ipynb`
-- model `temp-from-pre.keras`
+- code `from_scratch2.ipynb` in this folder
+- model `temp4-from-sc.keras` in this folder
